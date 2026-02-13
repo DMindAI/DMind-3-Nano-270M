@@ -26,6 +26,9 @@
   <a href="MODEL-LICENSE">
     <img alt="Model License: Model Agreement" src="https://img.shields.io/badge/Model%20License-Model%20Agreement-yellow.svg"/>
   </a>
+  <a href="http://arxiv.org/abs/2602.11651">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.11651-b31b1b.svg"/>
+  </a>
   
 </div>
 
@@ -296,12 +299,19 @@ python -m src.generate_benchmark --output ./data/benchmark_dataset.json
 
 ## Citation
 
+If you use DMind-3 in your research, please cite our paper:
+
+**DMind-3: A Sovereign Edge--Local--Cloud AI System with Controlled Deliberation and Correction-Based Tuning for Safe, Low-Latency Transaction Execution**  
+Enhao Huang, Frank Li, Tony Ling, Lowes Yang  
+*arXiv preprint arXiv:2602.11651*, 2026  
+[[arXiv]](http://arxiv.org/abs/2602.11651) [[PDF]](http://arxiv.org/pdf/2602.11651)
+
 ```bibtex
-@misc{dmind2026,
-  title={DMind-3-nano: Privacy-First On-Device Crypto Intent Recognition with Standardized Function Calling},
-  author={DMind Team},
-  year={2026},
-  publisher={Hugging Face}
+@misc{huang2026dmind3,
+  title={DMind-3: A Sovereign Edge--Local--Cloud AI System with Controlled Deliberation and Correction-Based Tuning for Safe, Low-Latency Transaction Execution},
+  author={Huang, Enhao and Li, Frank and Ling, Tony and Yang, Lowes},
+  journal={arXiv preprint arXiv:2602.11651},
+  year={2026}
 }
 ```
 
