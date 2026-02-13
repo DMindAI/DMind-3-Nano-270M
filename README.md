@@ -1,4 +1,4 @@
-# DMind-3-Nano-0.6B
+# DMind-3-Nano-270M
 
 <div align="center">
   <img src="figures/dmind-ai-logo.png" width="60%" alt="DMind-3-Nano" />
@@ -244,7 +244,7 @@ Model:
 
 | **Model** | **Base Model** | **Download** |
 |:-:|:-:|:-:|
-| DMind-3-Nano-0.6B | google/functiongemma-270m-it | [Hugging Face Link](https://huggingface.co/DMindAI/DMind-3-nano) |
+| DMind-3-Nano-270M | google/functiongemma-270m-it | [Hugging Face Link](https://huggingface.co/DMindAI/DMind-3-nano) |
 
 ### 7.2 Training & Eval
 
@@ -293,7 +293,7 @@ python -m src.generate_benchmark --output ./data/benchmark_dataset.json
 - Model card intent: Apache 2.0
 - Protocol specs (`SEARCH_TOKEN` / `EXECUTE_SWAP`): Public domain for maximal adoption.
 - **Base Models:**
-  - DMind-3-Nano-0.6B is derived from google/functiongemma-270m-it, originally licensed under the [Gemma License](https://ai.google.dev/gemma/terms).
+  - DMind-3-Nano-270M is derived from google/functiongemma-270m-it, originally licensed under the [Gemma License](https://ai.google.dev/gemma/terms).
 - Contributions are welcome via issues/PRs.
 
 
