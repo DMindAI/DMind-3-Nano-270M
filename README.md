@@ -16,7 +16,7 @@
   <a href="https://x.com/dmind_ai">
     <img alt="X" src="https://img.shields.io/badge/X-@dmindai-1DA1F2?logo=x"/>
   </a> 
-  <a href="https://discord.gg/xxwmPHU3">
+  <a href="https://discord.com/invite/Zvyq2hPFB7">
     <img alt="Discord"
       src="https://img.shields.io/badge/Discord-DMind-7289da?logo=discord&logoColor=white&color=7289da"/>
   </a>
@@ -320,5 +320,5 @@ Enhao Huang, Frank Li, Tony Ling, Lowes Yang
 For questions or support, please contact team@dmind.ai
 
 - 🌐 Project Homepage: [https://dmind.ai](https://dmind.ai)
-- 💬 Community Discussion: [Discord](https://discord.gg/xxwmPHU3)
+- 💬 Community Discussion: [Discord](https://discord.com/invite/Zvyq2hPFB7)
 - 🐦 Twitter: [@dmind_ai](https://x.com/dmind_ai)
